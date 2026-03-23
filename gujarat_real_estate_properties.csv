@@ -1,0 +1,820 @@
+city,location,price,area_sqft,bhk,furnishing,property_age,parking,lift,balcony
+Ahmedabad,,2821533,489,1,,,0,1,0
+Ahmedabad,Satellite,2900112,499,1,Fully Furnished,2,0,0,0
+Ahmedabad,Bopal,3262895,567,1,Fully Furnished,1,0,1,1
+Ahmedabad,Satellite,5531610,963,2,,,1,0,1
+Ahmedabad,Vastrapur,6607744,1122,3,Semi-Furnished,10,1,1,1
+Ahmedabad,Vastrapur,3372424,,1,,,1,0,1
+Ahmedabad,Gota,7678452,1321,3,,5,1,1,1
+Ahmedabad,,7866132,1367,3,,10,1,1,0
+Ahmedabad,,8413604,,3,,2,1,1,0
+Ahmedabad,Vastrapur,5517024,,2,,,0,0,1
+Ahmedabad,,4637874,791,2,Unfurnished,,0,0,0
+Ahmedabad,Vastrapur,6216277,1097,2,Unfurnished,5,1,1,1
+Ahmedabad,Maninagar,5902494,1004,2,Semi-Furnished,2,1,1,0
+Ahmedabad,,3129434,540,1,Unfurnished,,1,0,0
+Ahmedabad,Maninagar,3898221,679,1,,,1,0,1
+Ahmedabad,,8310669,1440,3,Unfurnished,5,1,1,0
+Ahmedabad,Maninagar,3927063,672,1,Fully Furnished,,1,0,1
+Ahmedabad,Gota,3219191,557,1,,,0,0,1
+Ahmedabad,,9096254,1605,3,,10,1,0,0
+Ahmedabad,,4681291,,2,,,0,1,0
+Ahmedabad,,3974432,671,1,,,1,1,0
+Ahmedabad,,4326251,732,2,,10,0,1,0
+Ahmedabad,,4092039,,2,Fully Furnished,2,1,1,0
+Ahmedabad,Maninagar,4061874,701,2,,10,1,1,1
+Ahmedabad,Satellite,3159184,,1,,10,0,1,1
+Ahmedabad,,6572501,1107,3,,,0,0,1
+Ahmedabad,,5459327,963,2,Fully Furnished,,1,0,0
+Ahmedabad,Maninagar,3590688,609,1,Fully Furnished,,1,0,1
+Ahmedabad,Satellite,3351014,568,1,Fully Furnished,5,0,0,1
+Ahmedabad,Satellite,6581335,1110,3,Unfurnished,5,0,1,1
+Ahmedabad,Gota,3102692,535,1,,,1,1,0
+Ahmedabad,Satellite,6822837,1189,3,Fully Furnished,5,0,0,0
+Ahmedabad,Vastrapur,4718816,,2,,2,0,0,1
+Ahmedabad,Maninagar,10077941,1739,3,Semi-Furnished,,1,0,1
+Ahmedabad,Maninagar,5127081,882,2,Semi-Furnished,5,0,1,1
+Ahmedabad,Maninagar,3788569,,1,,5,1,1,0
+Ahmedabad,,3629407,,1,,,0,1,0
+Ahmedabad,,4397077,767,2,,2,0,0,0
+Ahmedabad,Vastrapur,2767837,466,1,Semi-Furnished,10,1,1,0
+Ahmedabad,Satellite,2916931,512,1,,1,1,0,1
+Ahmedabad,Maninagar,3383223,587,1,Fully Furnished,10,1,0,0
+Ahmedabad,Maninagar,2895190,,1,Unfurnished,,0,0,0
+Ahmedabad,Gota,5086507,891,2,Unfurnished,,0,0,0
+Ahmedabad,,6113470,1034,2,Fully Furnished,1,1,0,1
+Ahmedabad,,6715357,,2,Semi-Furnished,,1,0,0
+Ahmedabad,,4890267,832,2,,5,0,0,0
+Ahmedabad,Maninagar,6694011,1141,2,Unfurnished,1,1,0,1
+Ahmedabad,,5508392,970,2,Semi-Furnished,,1,0,0
+Ahmedabad,,7862230,1359,3,Fully Furnished,,1,0,0
+Ahmedabad,,6680111,1135,3,,5,1,0,1
+Ahmedabad,Bopal,6905905,1164,2,Unfurnished,2,0,1,1
+Ahmedabad,Bopal,5393883,947,2,Semi-Furnished,,1,1,0
+Ahmedabad,Gota,2969031,505,1,Fully Furnished,10,1,0,0
+Ahmedabad,,5800187,999,2,Semi-Furnished,1,1,1,0
+Ahmedabad,Maninagar,5956237,1051,2,,,0,0,1
+Ahmedabad,,6531265,1106,2,,1,1,0,0
+Ahmedabad,Vastrapur,4236850,721,2,Semi-Furnished,,1,1,1
+Ahmedabad,Bopal,8006522,1368,3,,,1,1,1
+Ahmedabad,Bopal,3946458,673,1,Fully Furnished,,1,0,1
+Ahmedabad,Satellite,2778481,472,1,Semi-Furnished,5,1,1,1
+Ahmedabad,Gota,3250836,,1,,2,1,1,0
+Ahmedabad,,6559138,1118,2,,,1,0,1
+Ahmedabad,Vastrapur,6499229,1121,3,,,0,1,0
+Ahmedabad,Maninagar,4402992,772,2,,1,0,0,0
+Ahmedabad,,6551327,,3,,2,1,1,1
+Ahmedabad,,5862923,1009,2,,,0,0,0
+Ahmedabad,,4492919,784,2,Unfurnished,5,1,1,0
+Ahmedabad,Satellite,8031867,1368,3,Unfurnished,,1,0,0
+Ahmedabad,Satellite,3755968,657,1,,1,0,1,0
+Ahmedabad,,4873744,860,2,,,1,0,1
+Ahmedabad,,3779073,,1,Unfurnished,,0,0,0
+Ahmedabad,,6155966,1083,2,Fully Furnished,5,1,0,1
+Ahmedabad,Satellite,4029979,709,2,Semi-Furnished,,1,0,0
+Ahmedabad,,5796197,989,2,Semi-Furnished,5,1,1,0
+Ahmedabad,Satellite,3080934,522,1,,10,0,0,0
+Ahmedabad,Bopal,3390928,,1,Semi-Furnished,2,1,1,0
+Ahmedabad,,7272984,1250,3,Semi-Furnished,,0,1,1
+Ahmedabad,,6028208,1019,2,,5,0,0,1
+Ahmedabad,Gota,9494742,1639,3,Semi-Furnished,,1,0,0
+Ahmedabad,Satellite,10385176,1776,3,Semi-Furnished,,0,1,0
+Ahmedabad,Vastrapur,6553144,1151,3,,,1,1,0
+Ahmedabad,,9610900,1684,3,Semi-Furnished,,0,0,0
+Ahmedabad,Bopal,5709877,970,2,,,0,1,0
+Ahmedabad,Satellite,6706773,1179,2,,,1,0,1
+Ahmedabad,Bopal,3749076,646,1,Unfurnished,2,1,1,1
+Ahmedabad,,4102784,695,1,,,1,1,1
+Ahmedabad,Maninagar,4418636,,2,Unfurnished,10,0,1,0
+Ahmedabad,,5805646,,2,Unfurnished,10,0,1,0
+Ahmedabad,,3705820,632,1,,,0,1,1
+Ahmedabad,,6357245,1120,2,,,0,0,1
+Ahmedabad,Bopal,3873062,663,1,,10,1,0,0
+Ahmedabad,,4133608,,2,,1,1,0,1
+Ahmedabad,Satellite,2649202,453,1,Unfurnished,,0,0,0
+Ahmedabad,Gota,4050228,703,2,Fully Furnished,10,0,0,1
+Ahmedabad,Satellite,7025377,1185,2,,,0,0,0
+Ahmedabad,Gota,3952590,695,1,Fully Furnished,,0,0,0
+Surat,Katargam,3183325,511,1,Unfurnished,1,1,0,0
+Surat,Piplod,5539841,858,2,Unfurnished,10,0,1,0
+Surat,Katargam,4545127,,2,Fully Furnished,5,0,0,1
+Surat,,5176743,831,2,Unfurnished,2,1,0,0
+Surat,,5438100,861,2,Semi-Furnished,2,0,1,1
+Surat,Vesu,6147402,977,2,Unfurnished,,0,1,1
+Surat,Varachha,3932446,630,1,,,1,1,1
+Surat,Piplod,5934809,929,2,Semi-Furnished,10,0,1,1
+Surat,Adajan,3078433,493,1,,,1,1,0
+Surat,,7219051,1155,2,Fully Furnished,,1,0,1
+Surat,,4052135,626,1,Unfurnished,,1,0,1
+Surat,Vesu,4637915,747,2,Fully Furnished,,1,0,0
+Surat,Varachha,3778003,,1,,2,1,0,0
+Surat,Adajan,4845989,781,2,,1,1,1,0
+Surat,Varachha,6550055,1028,2,Unfurnished,,1,1,0
+Surat,,4178972,666,1,,10,0,1,0
+Surat,Piplod,5084503,814,2,Unfurnished,1,1,0,0
+Surat,Vesu,4238603,677,1,Semi-Furnished,,1,0,0
+Surat,,9002472,1409,3,Semi-Furnished,1,0,1,1
+Surat,Adajan,5844255,,2,Unfurnished,,0,1,0
+Surat,Vesu,3286740,523,1,,10,0,0,0
+Surat,Piplod,4169357,,1,Semi-Furnished,,0,0,0
+Surat,Katargam,5093318,,2,Semi-Furnished,,1,0,0
+Surat,Vesu,4014371,642,1,Unfurnished,,0,0,1
+Surat,Adajan,4095147,642,1,Semi-Furnished,,1,1,0
+Surat,,8060511,,3,,1,0,0,1
+Surat,Adajan,3673221,572,1,,2,1,1,0
+Surat,,6838249,1100,3,,10,0,1,0
+Surat,Vesu,5541632,884,2,Semi-Furnished,,1,1,1
+Surat,,4536072,706,2,Fully Furnished,1,1,1,0
+Surat,Katargam,3708020,598,1,Unfurnished,5,0,1,0
+Surat,Katargam,3465208,545,1,Unfurnished,2,1,1,1
+Surat,Piplod,4368475,688,1,Semi-Furnished,,0,1,1
+Surat,,7701868,1195,2,,,1,1,1
+Surat,,3107041,489,1,Fully Furnished,,1,1,1
+Surat,,4420618,689,1,,,1,1,1
+Surat,Varachha,4353496,697,1,,10,0,0,1
+Surat,Adajan,6536604,1019,2,Unfurnished,,1,1,0
+Surat,Vesu,9428767,1468,3,Semi-Furnished,2,0,1,0
+Surat,,3887408,602,1,,10,0,0,0
+Surat,Katargam,6897180,1114,2,Semi-Furnished,,0,1,0
+Surat,Katargam,3832968,618,1,Fully Furnished,10,0,0,1
+Surat,Adajan,2812540,451,1,Fully Furnished,,0,0,1
+Surat,Vesu,2989762,470,1,Unfurnished,,1,1,1
+Surat,Piplod,8233344,1313,3,,5,1,0,0
+Surat,Vesu,4317066,680,1,,,0,0,1
+Surat,Katargam,7173141,1139,3,,,1,1,1
+Surat,Vesu,6398575,989,2,,,1,1,0
+Surat,,7492859,1185,3,Unfurnished,,0,1,0
+Surat,Adajan,5909356,,2,Fully Furnished,2,0,0,0
+Surat,,7609753,1176,3,Semi-Furnished,,0,1,0
+Surat,Katargam,4125097,645,1,Unfurnished,1,0,1,1
+Surat,Adajan,2925194,464,1,Fully Furnished,,1,0,0
+Surat,Piplod,7722688,1243,3,,2,1,0,1
+Surat,Adajan,3134967,500,1,Semi-Furnished,10,1,1,1
+Surat,,3186634,,1,,10,1,0,1
+Surat,Varachha,6215446,1001,2,,10,0,0,1
+Surat,,6428371,1023,2,Fully Furnished,2,1,0,0
+Surat,Adajan,7065409,,3,Fully Furnished,,0,1,1
+Surat,,7264941,1139,2,,,0,1,1
+Surat,Katargam,3534008,567,1,Fully Furnished,,0,1,0
+Surat,Vesu,4089944,656,1,,2,1,1,1
+Surat,Adajan,6889626,1082,2,Semi-Furnished,,1,0,1
+Surat,,6852029,,2,,,1,1,0
+Surat,,5720896,906,2,,,1,0,1
+Surat,Varachha,4559411,710,2,Fully Furnished,5,1,1,1
+Surat,Katargam,6841015,1103,2,,5,0,1,0
+Surat,,8432248,1358,3,Unfurnished,2,0,0,0
+Surat,Adajan,3623809,,1,,,0,1,0
+Surat,Katargam,5181734,804,2,Unfurnished,1,0,1,0
+Surat,Vesu,3465207,549,1,,,1,0,1
+Surat,Piplod,7398143,1142,2,Unfurnished,1,0,0,1
+Surat,,4191117,662,1,,,1,1,1
+Surat,Katargam,7511583,1178,2,,,0,1,1
+Surat,Vesu,3006060,486,1,,,1,0,0
+Surat,,3931102,624,1,,,1,1,1
+Surat,Varachha,3575060,564,1,,,0,1,1
+Surat,Varachha,6225769,1007,2,Unfurnished,10,0,0,0
+Surat,Varachha,3652221,583,1,,,0,1,1
+Surat,,3074496,,1,,,1,1,1
+Surat,,6342850,,2,Semi-Furnished,1,0,0,1
+Surat,Varachha,7416777,1168,2,,,1,1,1
+Surat,,4333027,683,1,Unfurnished,2,0,1,0
+Surat,,3663161,578,1,Unfurnished,,1,0,1
+Surat,Katargam,3255005,514,1,,5,0,1,0
+Surat,Adajan,10055048,1576,3,,,1,1,1
+Surat,Piplod,8614595,1332,3,,10,0,0,1
+Surat,,7178383,,2,,10,1,1,1
+Surat,Adajan,7356764,1166,2,Fully Furnished,2,0,0,1
+Surat,,6493688,1013,2,,2,1,1,0
+Surat,Piplod,3034266,470,1,,2,1,1,1
+Vadodara,Gotri,2603693,484,1,Fully Furnished,10,0,1,1
+Vadodara,,8339351,,3,,10,1,1,1
+Vadodara,,2904828,528,1,Unfurnished,1,0,0,1
+Vadodara,Karelibaug,3170028,589,1,Semi-Furnished,,1,1,0
+Vadodara,Manjalpur,3077237,570,1,Fully Furnished,5,0,1,1
+Vadodara,,3064891,551,1,Semi-Furnished,,0,0,0
+Vadodara,Karelibaug,4663198,868,2,,5,1,1,0
+Vadodara,Manjalpur,5574285,1001,2,Unfurnished,,1,1,0
+Vadodara,Alkapuri,7244737,1331,3,,1,0,1,1
+Vadodara,Gotri,6771875,1254,3,Unfurnished,,1,1,1
+Vadodara,,4475198,,2,,,1,1,0
+Vadodara,,3297889,611,1,,1,1,1,1
+Vadodara,Gotri,4076408,727,2,,10,1,1,0
+Vadodara,Alkapuri,6644232,1191,2,Fully Furnished,10,1,0,1
+Vadodara,Alkapuri,2910929,525,1,Fully Furnished,10,0,1,1
+Vadodara,Karelibaug,6282652,1148,2,Fully Furnished,1,1,0,0
+Vadodara,Alkapuri,5957129,1100,2,Fully Furnished,2,0,0,1
+Vadodara,Karelibaug,8331426,1527,3,Unfurnished,,0,0,1
+Vadodara,Karelibaug,6127409,1117,3,,,1,0,0
+Vadodara,Manjalpur,7279714,1304,3,Semi-Furnished,2,0,1,1
+Vadodara,Manjalpur,4990853,921,2,Semi-Furnished,,0,0,1
+Vadodara,Alkapuri,8699996,1617,3,,,1,0,0
+Vadodara,Alkapuri,7364930,1338,3,Semi-Furnished,,0,0,1
+Vadodara,Alkapuri,7161737,1306,3,Semi-Furnished,,1,0,0
+Vadodara,,7829360,1439,3,Fully Furnished,5,1,1,1
+Vadodara,,9869015,1799,3,Semi-Furnished,1,0,1,1
+Vadodara,,5860082,1054,2,,5,0,0,1
+Vadodara,Gotri,4170091,769,2,Fully Furnished,2,1,1,1
+Vadodara,Alkapuri,7301719,1340,3,,5,0,0,0
+Vadodara,Manjalpur,4282703,765,2,Fully Furnished,1,0,0,1
+Vadodara,,4319438,,2,Fully Furnished,,0,1,0
+Vadodara,,6313694,1125,3,Semi-Furnished,,0,1,0
+Vadodara,Alkapuri,3510365,628,1,,10,1,1,0
+Vadodara,Manjalpur,2761513,,1,,5,1,0,0
+Vadodara,,3506358,626,1,,10,1,1,1
+Vadodara,Karelibaug,4046384,740,2,Semi-Furnished,10,0,1,1
+Vadodara,Manjalpur,6443649,1189,2,Fully Furnished,,1,1,1
+Vadodara,,4875542,887,2,Semi-Furnished,2,1,1,0
+Vadodara,Gotri,9260022,1695,3,,10,0,1,1
+Vadodara,,4917322,,2,Fully Furnished,2,1,1,1
+Vadodara,,4794234,,2,Fully Furnished,1,0,1,1
+Vadodara,Alkapuri,4333711,788,2,Fully Furnished,2,0,1,0
+Vadodara,Gotri,5419119,1001,2,,,1,0,0
+Vadodara,Karelibaug,7149051,1332,3,,5,1,0,1
+Vadodara,Manjalpur,6159143,1129,3,Unfurnished,,0,1,0
+Vadodara,Gotri,6369122,,2,,1,0,0,1
+Vadodara,Alkapuri,3420129,628,1,,,0,0,0
+Vadodara,,9595896,1743,3,,2,0,1,1
+Vadodara,,6595841,1198,3,Fully Furnished,5,1,0,1
+Vadodara,Karelibaug,6231770,1118,3,,1,0,0,0
+Vadodara,Gotri,6533402,1169,2,Unfurnished,,0,1,1
+Vadodara,Manjalpur,4309143,,2,Semi-Furnished,,0,0,0
+Vadodara,Gotri,3871437,711,2,Unfurnished,,0,1,0
+Vadodara,Alkapuri,2962940,549,1,,,1,0,0
+Vadodara,,3248644,583,1,Semi-Furnished,,1,0,1
+Vadodara,,3935725,712,2,Unfurnished,,1,1,0
+Vadodara,,3951760,708,2,Unfurnished,1,0,1,0
+Vadodara,Karelibaug,3351266,,1,,5,0,1,1
+Vadodara,,5365522,986,2,,,1,0,0
+Vadodara,Manjalpur,7537453,1378,3,Fully Furnished,,1,0,1
+Vadodara,Alkapuri,3171333,,1,Semi-Furnished,2,0,0,0
+Vadodara,Manjalpur,3562154,652,1,,,0,1,0
+Vadodara,,6230101,1150,3,,,1,0,0
+Vadodara,Karelibaug,3565993,,1,Semi-Furnished,,0,0,1
+Vadodara,Manjalpur,6002413,,2,,,0,1,1
+Vadodara,Alkapuri,4751043,868,2,Semi-Furnished,,1,0,0
+Vadodara,Alkapuri,6464594,1197,3,,5,1,0,0
+Vadodara,Alkapuri,5858823,1056,2,Fully Furnished,5,1,0,1
+Vadodara,Karelibaug,3398106,616,1,Fully Furnished,,0,1,0
+Vadodara,Gotri,9507578,1728,3,Unfurnished,5,1,0,0
+Vadodara,Alkapuri,6796528,1231,3,Semi-Furnished,2,0,1,0
+Vadodara,,10492708,1947,3,Unfurnished,2,1,1,1
+Vadodara,Gotri,2689316,499,1,Semi-Furnished,5,0,1,1
+Vadodara,,6509895,1199,3,Unfurnished,,0,0,1
+Vadodara,Manjalpur,2898569,535,1,,1,0,0,1
+Vadodara,,6914601,1257,3,Semi-Furnished,,1,1,1
+Vadodara,Gotri,3205517,585,1,Fully Furnished,,1,0,1
+Vadodara,Manjalpur,5273300,,2,Fully Furnished,,0,0,0
+Vadodara,,4501801,829,2,,,1,0,0
+Vadodara,Gotri,6105154,1102,3,Unfurnished,1,0,0,1
+Vadodara,,7607081,1412,3,,2,0,0,1
+Vadodara,Manjalpur,2805520,506,1,,2,0,1,0
+Vadodara,Karelibaug,4276876,769,2,Fully Furnished,,1,1,0
+Vadodara,,2484194,459,1,Fully Furnished,,0,0,0
+Vadodara,Karelibaug,6398409,,2,,10,1,0,1
+Vadodara,Gotri,4559571,817,2,Semi-Furnished,1,0,1,0
+Vadodara,,4651158,838,2,,5,0,1,1
+Vadodara,Gotri,4514217,820,2,Fully Furnished,1,1,0,1
+Vadodara,,5177699,933,2,Unfurnished,,0,1,0
+Vadodara,Gotri,3595108,,1,Fully Furnished,,0,0,1
+Vadodara,Karelibaug,4923061,884,2,,2,0,1,0
+Vadodara,,5895476,1057,2,Fully Furnished,,0,1,1
+Vadodara,,2537288,464,1,Fully Furnished,10,0,1,0
+Vadodara,Gotri,4828563,892,2,Unfurnished,,1,1,1
+Vadodara,,8570022,1592,3,,,1,0,0
+Vadodara,,5093066,921,2,Unfurnished,2,0,0,0
+Rajkot,University Road,2989941,591,1,Unfurnished,5,0,1,1
+Rajkot,University Road,2388334,465,1,,,1,0,1
+Rajkot,,5359039,1078,2,,10,1,0,0
+Rajkot,,2541564,514,1,,10,0,0,1
+Rajkot,Kalawad Road,4454213,891,2,Semi-Furnished,5,0,1,0
+Rajkot,University Road,4348922,869,2,,1,0,1,0
+Rajkot,150 Feet Ring Rd,3063119,595,1,,,1,0,1
+Rajkot,Kalawad Road,3709923,741,2,Fully Furnished,,1,0,0
+Rajkot,150 Feet Ring Rd,2581107,,1,Fully Furnished,1,1,1,1
+Rajkot,,3853760,779,2,,,1,1,0
+Rajkot,150 Feet Ring Rd,9972177,1943,3,,1,0,0,1
+Rajkot,150 Feet Ring Rd,4997147,978,2,,2,0,0,1
+Rajkot,,5736627,1149,3,,1,0,1,1
+Rajkot,,5375497,1062,2,Semi-Furnished,,0,1,0
+Rajkot,,4641981,903,2,Fully Furnished,1,1,0,0
+Rajkot,150 Feet Ring Rd,4112447,815,2,Fully Furnished,1,0,0,1
+Rajkot,University Road,2635279,513,1,Semi-Furnished,10,0,0,1
+Rajkot,Kalawad Road,4788168,925,2,Fully Furnished,,1,0,1
+Rajkot,150 Feet Ring Rd,6041846,1179,2,,10,0,1,0
+Rajkot,Kalawad Road,3845890,763,2,,,0,1,1
+Rajkot,,2748726,548,1,,,0,1,1
+Rajkot,Kalawad Road,7539692,,3,Unfurnished,,0,0,0
+Rajkot,150 Feet Ring Rd,7663870,1545,3,Fully Furnished,5,1,0,0
+Rajkot,150 Feet Ring Rd,4636254,,2,,,1,1,1
+Rajkot,,5699941,1143,2,Unfurnished,,1,0,0
+Rajkot,,9886811,1947,3,,,1,1,1
+Rajkot,150 Feet Ring Rd,6062438,1173,2,,10,0,1,1
+Rajkot,,8120015,1576,3,Semi-Furnished,2,1,1,1
+Rajkot,Kalawad Road,3364750,657,1,Fully Furnished,,0,1,0
+Rajkot,,4375728,858,2,Semi-Furnished,1,1,0,1
+Rajkot,150 Feet Ring Rd,5268506,1037,2,Semi-Furnished,,1,1,0
+Rajkot,150 Feet Ring Rd,5353853,1036,2,,2,0,1,1
+Rajkot,150 Feet Ring Rd,5022302,1015,2,Semi-Furnished,5,1,0,1
+Rajkot,150 Feet Ring Rd,9914471,1959,3,,,1,0,1
+Rajkot,,2777828,560,1,Semi-Furnished,,1,0,1
+Rajkot,Kalawad Road,3503751,694,1,Unfurnished,,0,0,1
+Rajkot,Kalawad Road,2627986,530,1,Semi-Furnished,,1,1,0
+Rajkot,Kalawad Road,3441008,681,1,,10,1,0,1
+Rajkot,University Road,3343815,669,1,Semi-Furnished,2,1,1,1
+Rajkot,Kalawad Road,3336416,667,1,,,1,1,0
+Rajkot,University Road,6260865,1214,3,Fully Furnished,,0,1,0
+Rajkot,150 Feet Ring Rd,2694809,523,1,,10,1,1,1
+Rajkot,,3429753,693,1,Semi-Furnished,,0,0,1
+Rajkot,,6442453,,3,Semi-Furnished,,1,1,1
+Rajkot,150 Feet Ring Rd,4177924,822,2,Fully Furnished,,0,1,1
+Rajkot,,5696086,1104,2,,,0,0,0
+Rajkot,,4462616,861,2,Fully Furnished,2,0,1,0
+Rajkot,Kalawad Road,3801655,734,2,,5,0,1,0
+Rajkot,Kalawad Road,4701694,944,2,Unfurnished,1,0,0,1
+Rajkot,Kalawad Road,2844029,570,1,Fully Furnished,,1,1,0
+Rajkot,University Road,2435690,487,1,,1,0,1,1
+Rajkot,150 Feet Ring Rd,3302010,641,1,Unfurnished,2,1,1,1
+Rajkot,,6015964,1201,3,,,1,0,1
+Rajkot,University Road,7358306,1444,3,Fully Furnished,1,0,1,1
+Rajkot,University Road,4250432,838,2,,10,0,1,0
+Rajkot,Kalawad Road,2535888,,1,,,1,1,1
+Rajkot,,3993560,,2,Fully Furnished,,0,0,1
+Rajkot,University Road,4659055,938,2,Fully Furnished,5,1,1,0
+Rajkot,University Road,6472873,1285,3,,10,1,1,1
+Rajkot,University Road,2772458,549,1,Unfurnished,,0,1,0
+Rajkot,Kalawad Road,3545332,,2,,5,1,0,1
+Rajkot,,5298966,1060,2,,5,0,1,0
+Rajkot,,6984510,,3,Fully Furnished,,1,0,0
+Rajkot,,9087461,1758,3,Fully Furnished,10,0,1,0
+Rajkot,,4217785,834,2,Semi-Furnished,10,0,1,0
+Rajkot,,2859001,552,1,Fully Furnished,,1,1,0
+Rajkot,,5807862,,3,Fully Furnished,,0,0,0
+Rajkot,,4757861,924,2,,10,0,1,0
+Rajkot,University Road,5033464,983,2,,,1,1,0
+Rajkot,150 Feet Ring Rd,2880935,578,1,,10,0,1,1
+Rajkot,,5601604,1106,3,,,0,1,1
+Rajkot,150 Feet Ring Rd,6341930,1234,3,Fully Furnished,10,1,1,0
+Rajkot,150 Feet Ring Rd,2825725,569,1,Fully Furnished,,0,0,1
+Rajkot,Kalawad Road,5923753,,3,,1,1,0,0
+Rajkot,150 Feet Ring Rd,3194506,643,1,Fully Furnished,,1,1,1
+Rajkot,Kalawad Road,4074848,824,2,Unfurnished,,0,1,1
+Rajkot,University Road,8091183,1621,3,Fully Furnished,5,0,1,0
+Rajkot,,7586476,1511,3,Unfurnished,5,1,0,0
+Rajkot,,4215795,842,2,,1,1,0,0
+Rajkot,,8545258,,3,,1,1,0,0
+Rajkot,150 Feet Ring Rd,2402316,478,1,,,0,0,0
+Rajkot,,6012014,1192,2,,5,1,0,1
+Rajkot,,6539494,1263,3,Unfurnished,10,0,1,1
+Rajkot,150 Feet Ring Rd,6108065,1186,2,Semi-Furnished,,1,0,1
+Rajkot,150 Feet Ring Rd,3397009,668,1,,5,1,0,0
+Rajkot,,4346574,858,2,Unfurnished,5,0,1,0
+Rajkot,150 Feet Ring Rd,2817515,552,1,,,1,0,1
+Rajkot,Kalawad Road,2713835,,1,,1,0,0,0
+Rajkot,University Road,4435473,892,2,,10,1,1,1
+Rajkot,Kalawad Road,8539557,1680,3,Unfurnished,,0,1,0
+Rajkot,,2571418,512,1,,5,0,0,1
+Rajkot,,2485485,500,1,Unfurnished,,1,0,0
+Rajkot,University Road,2933995,572,1,,1,1,0,1
+Rajkot,,2816142,568,1,Semi-Furnished,,1,1,1
+Rajkot,Kalawad Road,2648243,533,1,Semi-Furnished,,0,0,1
+Rajkot,Kalawad Road,5700673,,2,Semi-Furnished,5,0,0,1
+Rajkot,University Road,6544009,1291,3,Unfurnished,,1,0,0
+Rajkot,150 Feet Ring Rd,2362720,,1,,,1,0,1
+Rajkot,University Road,2607991,519,1,Semi-Furnished,,0,0,1
+Rajkot,Kalawad Road,10182218,1975,3,Unfurnished,,1,0,0
+Rajkot,University Road,3543026,,1,Fully Furnished,,1,1,0
+Rajkot,150 Feet Ring Rd,5757510,1132,2,Semi-Furnished,5,0,1,1
+Bhavnagar,,2565169,583,1,,,1,1,0
+Bhavnagar,,6872305,1583,3,,,1,1,1
+Bhavnagar,,2328200,526,1,Unfurnished,10,1,0,0
+Bhavnagar,,2130932,478,1,,,0,0,1
+Bhavnagar,Nilambag,2139428,,1,Semi-Furnished,,0,1,0
+Bhavnagar,Sardar Nagar,8415156,1857,3,Unfurnished,2,0,1,0
+Bhavnagar,Talaja Road,3484894,793,2,Unfurnished,,0,0,1
+Bhavnagar,Talaja Road,4030884,922,2,Fully Furnished,2,1,0,0
+Bhavnagar,Nilambag,5192835,1155,2,Semi-Furnished,,0,1,0
+Bhavnagar,Sardar Nagar,4586570,1021,2,,10,1,1,1
+Bhavnagar,Talaja Road,3436113,772,2,Unfurnished,10,1,0,1
+Bhavnagar,Sardar Nagar,2174456,,1,,2,0,0,0
+Bhavnagar,,3203943,730,2,Semi-Furnished,2,0,0,1
+Bhavnagar,Nilambag,3354133,,2,,,0,0,1
+Bhavnagar,Talaja Road,3234571,739,2,,10,0,1,0
+Bhavnagar,Nilambag,6421594,1444,3,,,0,0,1
+Bhavnagar,,4923546,1091,2,Semi-Furnished,,0,1,0
+Bhavnagar,,3078817,707,2,Semi-Furnished,,1,0,1
+Bhavnagar,,5359523,1191,2,,,1,0,1
+Bhavnagar,Nilambag,2643932,610,1,,,1,0,1
+Bhavnagar,Talaja Road,5796858,1291,3,,,0,1,1
+Bhavnagar,Talaja Road,2895814,648,1,Fully Furnished,1,1,0,1
+Bhavnagar,Talaja Road,2082072,,1,Fully Furnished,5,1,1,1
+Bhavnagar,Sardar Nagar,2684978,605,1,Unfurnished,,1,1,1
+Bhavnagar,Talaja Road,2157728,488,1,,,1,1,0
+Bhavnagar,,3918348,889,2,Fully Furnished,,0,0,0
+Bhavnagar,,2388476,552,1,Unfurnished,10,0,0,1
+Bhavnagar,Talaja Road,3323888,755,2,Semi-Furnished,5,1,0,0
+Bhavnagar,Nilambag,2327209,517,1,,5,1,0,0
+Bhavnagar,Nilambag,2096094,470,1,Fully Furnished,,1,0,1
+Bhavnagar,Talaja Road,6080586,1345,3,Unfurnished,,0,0,1
+Bhavnagar,Sardar Nagar,4524547,1027,2,,5,0,1,0
+Bhavnagar,Nilambag,2992047,677,1,Semi-Furnished,5,0,0,1
+Bhavnagar,Talaja Road,7928450,1811,3,Unfurnished,,1,1,1
+Bhavnagar,,6266993,1411,3,Unfurnished,5,0,1,0
+Bhavnagar,,3959025,910,2,,,0,0,0
+Bhavnagar,Sardar Nagar,8356346,1846,3,,5,1,0,0
+Bhavnagar,Talaja Road,2724790,616,1,Fully Furnished,,0,0,0
+Bhavnagar,Nilambag,3972397,888,2,Fully Furnished,2,0,0,0
+Bhavnagar,Nilambag,5841053,,3,Unfurnished,,1,1,0
+Bhavnagar,Sardar Nagar,2642167,,1,Unfurnished,1,1,1,0
+Bhavnagar,Talaja Road,3740709,853,2,Unfurnished,,0,0,0
+Bhavnagar,Talaja Road,4057614,907,2,Semi-Furnished,2,1,0,0
+Bhavnagar,Nilambag,2114415,480,1,,10,0,0,1
+Bhavnagar,,3850844,860,2,Semi-Furnished,5,1,0,1
+Bhavnagar,Nilambag,2913066,653,1,Semi-Furnished,,0,0,0
+Bhavnagar,Sardar Nagar,2383477,533,1,,,1,0,0
+Bhavnagar,,4870999,1100,2,,10,0,0,0
+Bhavnagar,Sardar Nagar,3410168,780,2,,10,1,1,1
+Bhavnagar,Sardar Nagar,5711173,1290,3,Unfurnished,5,0,0,1
+Bhavnagar,Sardar Nagar,4850730,1116,2,,5,0,0,0
+Bhavnagar,Nilambag,2516710,565,1,,10,1,0,0
+Bhavnagar,,8137841,1809,3,,10,0,0,1
+Bhavnagar,,4336286,1000,2,,2,0,0,1
+Bhavnagar,Talaja Road,3938879,874,2,,,0,1,0
+Bhavnagar,,5783949,1293,3,,1,1,0,0
+Bhavnagar,Sardar Nagar,7102216,1579,3,Fully Furnished,10,1,0,0
+Bhavnagar,,2870841,655,1,,5,0,0,0
+Bhavnagar,Nilambag,3707833,856,2,Semi-Furnished,5,1,0,1
+Bhavnagar,,3083882,699,1,Fully Furnished,,1,0,0
+Bhavnagar,Nilambag,3602975,813,2,,,0,1,1
+Bhavnagar,Talaja Road,2765448,614,1,Fully Furnished,,0,0,1
+Bhavnagar,Talaja Road,4379288,977,2,Fully Furnished,,0,0,0
+Bhavnagar,Nilambag,4446345,1027,2,Fully Furnished,,0,0,1
+Bhavnagar,,2607932,580,1,Unfurnished,5,0,0,1
+Bhavnagar,,3389041,781,2,,,0,1,1
+Bhavnagar,,7705917,1745,3,,10,1,0,0
+Bhavnagar,Sardar Nagar,2785448,633,1,Semi-Furnished,2,1,0,0
+Bhavnagar,Nilambag,2788773,633,1,Unfurnished,,0,0,1
+Bhavnagar,Nilambag,3557289,811,2,Semi-Furnished,1,1,0,0
+Bhavnagar,Nilambag,2303639,509,1,Fully Furnished,5,0,0,1
+Bhavnagar,Sardar Nagar,2478524,572,1,Fully Furnished,10,0,1,1
+Bhavnagar,Sardar Nagar,4867416,1104,3,,,0,1,0
+Bhavnagar,,3083305,684,1,,1,0,0,1
+Bhavnagar,,2840103,647,1,Unfurnished,,1,0,1
+Bhavnagar,Sardar Nagar,2110686,472,1,,10,0,0,0
+Bhavnagar,Nilambag,3131559,704,2,,,0,0,1
+Bhavnagar,Talaja Road,7815196,1799,3,Semi-Furnished,,1,1,1
+Bhavnagar,Nilambag,2070460,458,1,,,1,0,1
+Bhavnagar,Nilambag,4659609,1028,2,Fully Furnished,,1,1,1
+Bhavnagar,Sardar Nagar,2347130,518,1,Unfurnished,1,1,0,1
+Bhavnagar,,5164513,,2,Fully Furnished,5,1,0,0
+Bhavnagar,,6533069,1493,3,Semi-Furnished,2,0,1,0
+Bhavnagar,Talaja Road,8517639,,3,,5,1,1,1
+Bhavnagar,Sardar Nagar,2884190,658,1,Semi-Furnished,1,1,0,0
+Bhavnagar,Sardar Nagar,5800537,1320,3,Semi-Furnished,,1,0,1
+Bhavnagar,,4533827,1020,2,,10,0,1,0
+Bhavnagar,,2549773,576,1,Fully Furnished,,0,0,0
+Bhavnagar,Nilambag,5125481,1158,3,,,0,0,0
+Bhavnagar,Sardar Nagar,3427408,772,2,,,1,1,0
+Bhavnagar,Sardar Nagar,1972549,451,1,,,0,0,1
+Bhavnagar,,2436256,553,1,Fully Furnished,,1,0,1
+Bhavnagar,Talaja Road,3310953,,2,Semi-Furnished,,1,0,1
+Bhavnagar,Talaja Road,8453707,1888,3,Semi-Furnished,2,0,1,1
+Bhavnagar,Talaja Road,2072079,461,1,,5,0,1,1
+Bhavnagar,,7629829,1719,3,Fully Furnished,1,0,0,1
+Bhavnagar,Nilambag,5368756,1188,2,,5,0,0,0
+Bhavnagar,Sardar Nagar,7337859,,3,Fully Furnished,10,0,0,0
+Bhavnagar,Sardar Nagar,2856466,637,1,Fully Furnished,1,0,1,1
+Bhavnagar,,2093843,,1,Unfurnished,10,0,0,1
+Bhavnagar,,6636449,1524,3,Unfurnished,,0,1,1
+Bhavnagar,Nilambag,2685769,607,1,,10,1,0,0
+Bhavnagar,Talaja Road,2854092,657,1,Semi-Furnished,2,0,0,0
+Bhavnagar,Nilambag,2172041,479,1,,,1,1,0
+Bhavnagar,Nilambag,2553571,576,1,Semi-Furnished,,1,1,0
+Bhavnagar,,4013536,899,2,,,1,1,1
+Bhavnagar,Nilambag,2280547,520,1,Semi-Furnished,10,1,0,1
+Bharuch,,3650364,882,2,Semi-Furnished,1,0,0,0
+Bharuch,Link Road,6976996,1690,3,Semi-Furnished,,1,0,0
+Bharuch,,6016456,1455,3,Unfurnished,,0,0,1
+Bharuch,Link Road,7417324,,3,,5,0,1,0
+Bharuch,,2674741,642,1,Unfurnished,1,0,1,0
+Bharuch,Link Road,2842485,672,1,,,0,0,0
+Bharuch,Link Road,2120720,,1,Semi-Furnished,,1,1,1
+Bharuch,Zadeshwar,3002258,727,2,,2,1,1,0
+Bharuch,,3159400,747,2,Semi-Furnished,10,0,1,0
+Bharuch,Ankleshwar,4787590,1149,2,Fully Furnished,,1,0,0
+Bharuch,,4375355,1061,2,Fully Furnished,1,1,0,1
+Bharuch,,7785508,1825,3,Fully Furnished,1,1,0,1
+Bharuch,,7790019,1838,3,Semi-Furnished,,1,1,1
+Bharuch,Link Road,5083178,,3,Fully Furnished,,1,1,0
+Bharuch,Zadeshwar,2267391,543,1,Semi-Furnished,5,0,1,1
+Bharuch,Ankleshwar,7326250,1720,3,,1,0,0,0
+Bharuch,Ankleshwar,4937288,1180,3,,10,0,0,0
+Bharuch,,2185102,,1,,,0,0,1
+Bharuch,Link Road,1949175,462,1,Fully Furnished,,1,0,0
+Bharuch,Zadeshwar,3735537,875,2,,5,1,0,0
+Bharuch,Link Road,3636074,877,2,Fully Furnished,2,0,0,1
+Bharuch,Zadeshwar,8465685,1972,3,Fully Furnished,,0,0,1
+Bharuch,Zadeshwar,6279899,1500,3,,,1,0,1
+Bharuch,Zadeshwar,2324971,562,1,Semi-Furnished,,1,0,0
+Bharuch,,7624802,,3,,,0,1,1
+Bharuch,,3948534,917,2,Semi-Furnished,10,0,1,1
+Bharuch,Link Road,2179064,527,1,Fully Furnished,1,1,1,0
+Bharuch,Link Road,2065114,,1,Semi-Furnished,10,0,1,0
+Bharuch,,3908187,931,2,Unfurnished,1,1,1,1
+Bharuch,,3308596,767,2,Unfurnished,10,0,0,1
+Bharuch,Zadeshwar,2351682,569,1,,,1,1,1
+Bharuch,,6326895,1503,3,Fully Furnished,5,0,0,1
+Bharuch,Link Road,5081744,1187,2,Fully Furnished,2,1,1,0
+Bharuch,,4824686,1117,2,Fully Furnished,,1,0,0
+Bharuch,,2131778,495,1,Semi-Furnished,,1,1,1
+Bharuch,Link Road,6055869,,3,Unfurnished,2,1,1,1
+Bharuch,Link Road,2157922,513,1,,2,0,0,0
+Bharuch,Link Road,3752247,891,2,,,1,0,0
+Bharuch,Zadeshwar,7814846,1871,3,Fully Furnished,,0,1,0
+Bharuch,,2975852,721,2,,2,1,1,1
+Bharuch,,3951816,928,2,,1,1,1,1
+Bharuch,Ankleshwar,6203198,1451,3,Unfurnished,,1,0,1
+Bharuch,Ankleshwar,4066291,976,2,Semi-Furnished,,1,0,0
+Bharuch,Link Road,2947447,,1,Semi-Furnished,,1,1,0
+Bharuch,Zadeshwar,5917768,1381,3,Unfurnished,5,0,0,0
+Bharuch,Zadeshwar,3779913,903,2,,,1,1,0
+Bharuch,Link Road,2035496,493,1,Semi-Furnished,2,1,0,0
+Bharuch,Link Road,3243693,757,2,Fully Furnished,,0,0,1
+Bharuch,,3896871,936,2,Semi-Furnished,,1,1,1
+Bharuch,,2575926,597,1,,1,0,1,1
+Bharuch,Ankleshwar,2198212,528,1,,2,1,1,0
+Bharuch,Zadeshwar,2348008,563,1,,1,1,1,1
+Bharuch,Ankleshwar,2849261,669,1,Unfurnished,2,0,0,1
+Bharuch,,2232932,,1,Semi-Furnished,,1,1,0
+Bharuch,Link Road,4911589,1177,2,,,0,1,1
+Bharuch,Zadeshwar,2173339,,1,,1,0,1,1
+Bharuch,Zadeshwar,2186844,515,1,Fully Furnished,2,1,1,0
+Bharuch,Ankleshwar,2750724,638,1,,5,0,1,1
+Bharuch,Zadeshwar,2987670,695,1,Fully Furnished,,0,0,0
+Bharuch,Zadeshwar,5126505,1194,2,Unfurnished,2,1,1,0
+Bharuch,Link Road,3959390,926,2,Fully Furnished,1,1,0,1
+Bharuch,Ankleshwar,2776961,663,1,Fully Furnished,,1,0,0
+Bharuch,,2131456,502,1,,10,1,1,0
+Bharuch,,4838187,1136,2,Fully Furnished,,1,0,1
+Bharuch,,4850342,1138,3,,,1,0,1
+Bharuch,,3868501,918,2,Semi-Furnished,,1,0,1
+Bharuch,Link Road,2797935,658,1,Unfurnished,,1,1,1
+Bharuch,Link Road,2197572,522,1,,1,0,1,1
+Bharuch,Link Road,6238222,1458,3,Unfurnished,,0,0,1
+Bharuch,Link Road,6122172,1485,3,Unfurnished,,1,1,0
+Bharuch,Link Road,2130267,516,1,Unfurnished,2,1,1,0
+Bharuch,,3411976,812,2,Fully Furnished,2,0,0,0
+Bharuch,Ankleshwar,3449323,814,2,Fully Furnished,2,0,1,0
+Bharuch,Zadeshwar,2963065,697,1,,10,1,0,0
+Bharuch,,3121016,739,2,Fully Furnished,,1,0,1
+Bharuch,,6326832,1471,3,,1,0,1,0
+Bharuch,,4748269,,2,,2,1,1,0
+Bharuch,,2524774,610,1,Unfurnished,1,0,0,0
+Bharuch,Ankleshwar,2697142,636,1,Fully Furnished,,1,0,0
+Bharuch,,4975890,1185,2,Unfurnished,1,0,0,0
+Bharuch,,2850856,667,1,Unfurnished,2,0,0,1
+Bharuch,Ankleshwar,7446063,1724,3,,1,1,1,0
+Bharuch,Link Road,4025064,940,2,,10,0,1,1
+Bharuch,Zadeshwar,1957567,455,1,Fully Furnished,,0,0,1
+Bharuch,Ankleshwar,3445100,809,2,Fully Furnished,,1,1,1
+Bharuch,,6634646,,3,Semi-Furnished,,1,1,0
+Bharuch,,5664962,1362,3,,,1,1,0
+Bharuch,,2626425,613,1,,2,0,0,1
+Bharuch,,3169355,755,2,,,0,1,1
+Bharuch,Ankleshwar,3478596,,2,Unfurnished,,1,1,1
+Bharuch,,2352406,558,1,Fully Furnished,1,0,1,1
+Bharuch,Ankleshwar,6550741,,3,Unfurnished,2,1,0,1
+Bharuch,Link Road,4742395,1137,2,,,1,0,0
+Bharuch,Ankleshwar,2992422,698,1,,,1,0,0
+Bharuch,Zadeshwar,6724085,1568,3,,2,1,1,0
+Bharuch,Link Road,3796587,886,2,,,1,1,1
+Bharuch,Ankleshwar,4299514,1004,2,Semi-Furnished,1,0,0,0
+Bharuch,,5705164,1380,3,Unfurnished,10,0,1,0
+Bharuch,,4771455,1130,2,,10,0,0,0
+Bharuch,Link Road,1920522,459,1,Fully Furnished,2,1,0,0
+Bharuch,,8262530,,3,Fully Furnished,,0,0,1
+Bharuch,Zadeshwar,7692226,,3,Unfurnished,2,0,0,1
+Bharuch,Link Road,2711482,646,1,,2,0,1,1
+Bharuch,Link Road,2703379,637,1,Unfurnished,,1,0,1
+Bharuch,Ankleshwar,7106748,1718,3,Fully Furnished,2,0,0,1
+Bharuch,,6517747,,3,Fully Furnished,2,1,1,1
+Bharuch,Ankleshwar,3910787,931,2,Unfurnished,1,1,0,0
+Bharuch,,2482853,577,1,,10,1,1,1
+Bharuch,Link Road,2621824,635,1,,,0,1,0
+Bharuch,Zadeshwar,4817598,,3,Unfurnished,,1,0,1
+Jamnagar,Patel Colony,7712390,1632,3,Semi-Furnished,5,0,1,1
+Jamnagar,Gulab Nagar,2780284,591,1,,10,0,0,1
+Jamnagar,Indira Marg,5372883,1153,3,Unfurnished,1,0,0,1
+Jamnagar,Patel Colony,2247499,473,1,,,1,1,0
+Jamnagar,Patel Colony,3223848,,1,Unfurnished,5,1,1,1
+Jamnagar,Indira Marg,5534847,1176,2,Unfurnished,5,1,1,0
+Jamnagar,Indira Marg,2209793,467,1,,,0,0,0
+Jamnagar,Patel Colony,8878367,1847,3,,,1,1,0
+Jamnagar,Patel Colony,2671309,554,1,Unfurnished,,0,1,1
+Jamnagar,,5073701,1085,2,Unfurnished,1,1,0,0
+Jamnagar,Gulab Nagar,5968209,,3,Fully Furnished,10,0,0,0
+Jamnagar,Indira Marg,3452972,717,2,Unfurnished,10,0,1,1
+Jamnagar,Indira Marg,4102660,865,2,Fully Furnished,1,0,1,0
+Jamnagar,,2515341,,1,Fully Furnished,2,0,0,1
+Jamnagar,Indira Marg,6856334,1412,3,,,0,0,0
+Jamnagar,,8008356,,3,Fully Furnished,5,0,0,1
+Jamnagar,Indira Marg,8622545,1789,3,,2,0,0,1
+Jamnagar,Gulab Nagar,2221415,462,1,,,1,0,1
+Jamnagar,Patel Colony,5479365,1129,2,Semi-Furnished,2,1,0,0
+Jamnagar,Indira Marg,7191478,1548,3,,5,1,0,1
+Jamnagar,,5564587,1184,3,,,0,1,0
+Jamnagar,Patel Colony,2341774,500,1,,,0,1,1
+Jamnagar,,6352630,1365,3,Semi-Furnished,5,1,0,1
+Jamnagar,Gulab Nagar,5195973,1087,2,,,0,0,0
+Jamnagar,,6255500,,3,Unfurnished,,0,1,1
+Jamnagar,Indira Marg,5458465,1176,3,Unfurnished,,1,0,0
+Jamnagar,,3395676,721,2,Fully Furnished,1,0,0,1
+Jamnagar,Gulab Nagar,3157082,673,1,,,1,1,0
+Jamnagar,Indira Marg,2314662,,1,,,1,0,0
+Jamnagar,Gulab Nagar,6014920,1263,3,Semi-Furnished,1,1,1,1
+Jamnagar,Gulab Nagar,3722946,,2,Semi-Furnished,5,0,1,0
+Jamnagar,,4903454,1016,2,,10,0,1,0
+Jamnagar,,6544326,1370,3,Unfurnished,,1,1,0
+Jamnagar,,5471881,1141,2,Unfurnished,,1,1,1
+Jamnagar,Gulab Nagar,4278881,884,2,,5,0,1,1
+Jamnagar,Gulab Nagar,4401833,921,2,Unfurnished,1,0,1,0
+Jamnagar,,7436788,1546,3,Unfurnished,5,0,0,0
+Jamnagar,Patel Colony,5416762,1144,3,Unfurnished,5,0,0,0
+Jamnagar,,5937422,1270,3,,,0,1,0
+Jamnagar,Gulab Nagar,6894135,1435,3,Semi-Furnished,10,1,1,1
+Jamnagar,Patel Colony,2907606,622,1,,10,1,0,0
+Jamnagar,Patel Colony,3679564,765,2,,,1,0,1
+Jamnagar,Gulab Nagar,7558534,1612,3,,,1,0,1
+Jamnagar,Patel Colony,4817996,1029,2,,1,0,1,0
+Jamnagar,Indira Marg,4819744,1002,2,Semi-Furnished,,1,0,1
+Jamnagar,,3070538,642,1,Semi-Furnished,1,0,1,1
+Jamnagar,Gulab Nagar,6498374,1383,3,Unfurnished,,0,1,1
+Jamnagar,,4614336,,2,Unfurnished,1,0,1,1
+Jamnagar,,6523908,1402,3,,10,1,0,0
+Jamnagar,Gulab Nagar,4207191,890,2,Semi-Furnished,10,1,0,0
+Jamnagar,Gulab Nagar,5329345,,2,,,0,0,0
+Jamnagar,,3652315,,2,Semi-Furnished,5,0,0,0
+Jamnagar,Gulab Nagar,2954523,614,1,Unfurnished,,1,0,0
+Jamnagar,,3209031,669,1,Unfurnished,1,0,0,0
+Jamnagar,,2345537,500,1,Semi-Furnished,,1,1,0
+Jamnagar,Gulab Nagar,7885527,1670,3,,10,0,1,0
+Jamnagar,Patel Colony,3131907,669,1,Semi-Furnished,,1,0,1
+Jamnagar,Gulab Nagar,2458790,,1,Unfurnished,,1,1,0
+Jamnagar,,3487610,744,2,,,0,1,0
+Jamnagar,Indira Marg,2899169,611,1,,,1,1,1
+Jamnagar,Patel Colony,3907183,839,2,Semi-Furnished,,1,1,1
+Jamnagar,Indira Marg,4545578,975,2,Semi-Furnished,10,1,1,0
+Jamnagar,Gulab Nagar,5510109,1151,2,Unfurnished,1,0,0,0
+Jamnagar,,4021606,867,2,,,1,0,1
+Jamnagar,Patel Colony,2565044,549,1,Semi-Furnished,,1,0,0
+Jamnagar,Gulab Nagar,3332665,717,2,Fully Furnished,2,0,1,1
+Jamnagar,Patel Colony,2998293,638,1,,1,0,0,0
+Jamnagar,Gulab Nagar,2793774,583,1,,10,1,1,1
+Jamnagar,Indira Marg,2809786,597,1,,,0,0,0
+Jamnagar,Indira Marg,7063288,1511,3,Unfurnished,10,1,0,0
+Jamnagar,,3328695,712,2,Semi-Furnished,10,1,1,1
+Jamnagar,Patel Colony,5408573,1114,2,Fully Furnished,5,0,1,1
+Jamnagar,Patel Colony,3762946,802,2,Unfurnished,1,0,1,0
+Jamnagar,Gulab Nagar,9272871,1968,3,Unfurnished,2,1,1,1
+Jamnagar,Indira Marg,3501945,745,2,,,0,0,1
+Jamnagar,,5526456,1165,2,,,1,1,1
+Jamnagar,Patel Colony,2509289,530,1,Unfurnished,,1,0,0
+Jamnagar,,4193419,884,2,Fully Furnished,,1,1,1
+Jamnagar,Gulab Nagar,3593369,755,2,,,0,1,0
+Jamnagar,,4338372,907,2,Unfurnished,1,1,1,1
+Jamnagar,,4482172,963,2,Fully Furnished,,1,0,0
+Jamnagar,,2445355,519,1,Fully Furnished,1,1,0,1
+Jamnagar,,5472680,1134,2,Semi-Furnished,10,1,0,0
+Jamnagar,Gulab Nagar,4744996,977,2,Semi-Furnished,5,1,0,0
+Jamnagar,,4689820,969,2,Fully Furnished,5,0,0,1
+Jamnagar,Patel Colony,3133897,648,1,Unfurnished,,0,0,0
+Jamnagar,Gulab Nagar,6133541,1268,3,,,0,1,0
+Jamnagar,Indira Marg,2499662,,1,Unfurnished,1,1,1,1
+Jamnagar,Patel Colony,5658564,,2,Semi-Furnished,2,1,0,0
+Jamnagar,,4620628,955,2,,5,0,1,1
+Jamnagar,,7612485,1609,3,,2,0,0,0
+Jamnagar,,2855468,613,1,Unfurnished,,1,1,1
+Jamnagar,,2150939,450,1,,,0,0,0
+Jamnagar,Gulab Nagar,3225815,,1,Fully Furnished,,1,0,0
+Jamnagar,,2132672,,1,Unfurnished,1,0,1,0
+Jamnagar,Gulab Nagar,4483703,962,2,Semi-Furnished,,0,0,1
+Jamnagar,,6617594,1404,3,Semi-Furnished,,0,1,1
+Jamnagar,Gulab Nagar,2227390,,1,,,1,1,1
+Jamnagar,Gulab Nagar,3103238,654,1,,,0,1,1
+Jamnagar,Patel Colony,2457025,528,1,,2,0,1,0
+Jamnagar,Indira Marg,2541909,535,1,Unfurnished,,1,1,0
+Jamnagar,Gulab Nagar,5244515,1111,2,,1,1,0,0
+Jamnagar,Gulab Nagar,3139533,656,1,Unfurnished,1,0,0,1
+Jamnagar,Indira Marg,2274810,472,1,,,0,1,1
+Jamnagar,Gulab Nagar,5590180,1164,3,,1,0,1,0
+Junagadh,Joshipura,2322276,580,1,Semi-Furnished,5,1,1,0
+Junagadh,Joshipura,3735963,953,2,,5,0,1,0
+Junagadh,Madhuram,6375911,1568,3,Semi-Furnished,1,1,1,0
+Junagadh,Kalva Chowk,2199709,,1,Semi-Furnished,,0,0,1
+Junagadh,Kalva Chowk,3655102,,2,Fully Furnished,2,1,0,0
+Junagadh,,2264957,566,1,,,0,0,1
+Junagadh,,5883811,1452,3,Fully Furnished,,1,0,0
+Junagadh,Joshipura,2292788,569,1,,2,0,1,0
+Junagadh,,3916581,958,2,Semi-Furnished,1,1,0,1
+Junagadh,Madhuram,3609359,907,2,Semi-Furnished,1,1,0,1
+Junagadh,Joshipura,7561436,1845,3,Unfurnished,1,1,0,1
+Junagadh,Joshipura,8075248,1985,3,,,1,1,1
+Junagadh,,4706290,1165,3,Unfurnished,2,1,1,0
+Junagadh,Joshipura,3854679,945,2,,,0,0,1
+Junagadh,,2398283,596,1,,,0,0,1
+Junagadh,,2262109,562,1,Unfurnished,,1,0,0
+Junagadh,,3618525,,2,Unfurnished,1,0,0,1
+Junagadh,Madhuram,5492941,1339,3,,2,0,0,1
+Junagadh,,6232534,1539,3,Semi-Furnished,1,0,1,0
+Junagadh,Kalva Chowk,1987952,487,1,,,0,0,1
+Junagadh,Kalva Chowk,2531213,644,1,,2,1,1,0
+Junagadh,Kalva Chowk,2486794,,1,Fully Furnished,,1,1,1
+Junagadh,,3839421,955,2,Semi-Furnished,,0,0,1
+Junagadh,Madhuram,7035897,1776,3,,,1,1,1
+Junagadh,Madhuram,7634406,1904,3,,,0,0,0
+Junagadh,,2861218,724,2,Fully Furnished,1,1,1,1
+Junagadh,Madhuram,2651031,665,1,,,1,0,1
+Junagadh,Madhuram,2720164,,1,,2,1,0,0
+Junagadh,Joshipura,3115101,794,2,,,1,0,1
+Junagadh,,2339790,590,1,Unfurnished,10,1,0,0
+Junagadh,,6924030,1716,3,,,0,0,0
+Junagadh,Madhuram,6697429,1700,3,Unfurnished,5,1,1,0
+Junagadh,Madhuram,5390026,1356,3,Fully Furnished,5,1,1,1
+Junagadh,,7985584,1966,3,,,0,1,1
+Junagadh,Kalva Chowk,6986439,1713,3,,,0,0,0
+Junagadh,,4178098,,2,Unfurnished,,1,0,0
+Junagadh,Kalva Chowk,2657556,655,1,Unfurnished,,1,1,1
+Junagadh,,3276943,802,2,Unfurnished,,0,1,0
+Junagadh,Madhuram,2489893,628,1,,1,0,1,1
+Junagadh,Kalva Chowk,1922002,490,1,Semi-Furnished,,1,0,1
+Junagadh,,6637869,1650,3,Semi-Furnished,1,0,1,1
+Junagadh,Madhuram,2066338,511,1,Semi-Furnished,2,1,0,1
+Junagadh,Joshipura,3449549,881,2,Unfurnished,5,1,1,1
+Junagadh,Kalva Chowk,3231098,799,2,Unfurnished,10,0,0,0
+Junagadh,Joshipura,2190988,,1,Semi-Furnished,,1,0,1
+Junagadh,Madhuram,7266585,1771,3,,2,1,1,1
+Junagadh,,6724356,1646,3,Semi-Furnished,10,1,0,1
+Junagadh,,3875363,954,2,,,1,1,1
+Junagadh,,2957174,742,2,,1,1,0,1
+Junagadh,Madhuram,3827982,964,2,Fully Furnished,5,0,0,0
+Junagadh,Joshipura,3426840,843,2,,10,0,0,0
+Junagadh,,2434094,606,1,Fully Furnished,,0,1,0
+Junagadh,Madhuram,2101688,530,1,Fully Furnished,10,1,1,0
+Junagadh,Joshipura,2381745,582,1,,,0,1,1
+Junagadh,Madhuram,6905134,1698,3,Unfurnished,,0,1,1
+Junagadh,Madhuram,2751911,682,1,Unfurnished,1,1,1,0
+Junagadh,Joshipura,2691407,666,1,,2,0,0,1
+Junagadh,Joshipura,6780450,1656,3,,,0,0,0
+Junagadh,,5243919,1310,3,Unfurnished,10,1,0,1
+Junagadh,,4120404,1012,2,Semi-Furnished,,1,1,1
+Junagadh,,6730517,,3,Fully Furnished,,0,1,0
+Junagadh,,4146088,,2,Semi-Furnished,10,1,1,1
+Junagadh,,4516918,1109,3,Semi-Furnished,,0,1,0
+Junagadh,Joshipura,4708823,1150,2,Unfurnished,,1,1,0
+Junagadh,,3552870,867,2,,,0,1,1
+Junagadh,Kalva Chowk,2313201,580,1,,10,1,0,0
+Junagadh,,2211770,565,1,,2,1,0,0
+Junagadh,Madhuram,6515274,1624,3,,5,1,0,0
+Junagadh,Joshipura,2988067,736,2,,1,1,1,1
+Junagadh,Joshipura,4821998,1179,2,Fully Furnished,1,0,1,0
+Junagadh,,1860130,474,1,Fully Furnished,10,0,0,0
+Junagadh,Kalva Chowk,5692253,1408,3,Semi-Furnished,1,0,1,1
+Junagadh,,2906522,728,2,Unfurnished,,0,0,0
+Junagadh,Joshipura,3169155,804,2,Fully Furnished,,1,1,1
+Junagadh,,4551122,1118,2,,,1,1,1
+Junagadh,Madhuram,6605043,1638,3,Unfurnished,2,1,1,1
+Junagadh,,1866903,457,1,,2,0,0,1
+Junagadh,Joshipura,2302579,586,1,,1,0,0,1
+Junagadh,,2604697,650,1,,1,0,1,0
+Junagadh,Joshipura,6882507,1711,3,Unfurnished,,0,0,0
+Junagadh,Kalva Chowk,7129428,1807,3,Unfurnished,,0,1,0
+Junagadh,Kalva Chowk,3202609,,2,,,1,1,0
+Junagadh,Joshipura,6642803,,3,Semi-Furnished,,1,0,0
+Junagadh,Joshipura,3123584,,2,Semi-Furnished,5,1,1,1
+Junagadh,Joshipura,4897117,1249,3,,,0,0,0
+Junagadh,Madhuram,2919424,727,2,,1,0,0,0
+Junagadh,Madhuram,2616658,,1,Unfurnished,10,0,1,1
+Junagadh,Kalva Chowk,3862546,950,2,Semi-Furnished,,0,0,1
+Junagadh,,5870049,1448,3,Unfurnished,,0,1,0
+Junagadh,Joshipura,1884411,478,1,,,0,0,0
+Junagadh,Madhuram,5337637,,3,,2,1,0,1
+Junagadh,,2223184,551,1,Unfurnished,,1,0,0
+Junagadh,Madhuram,7077379,1729,3,Semi-Furnished,,0,0,0
+Junagadh,Joshipura,2754609,,1,Semi-Furnished,10,0,0,0
+Junagadh,Kalva Chowk,5899004,1491,3,Unfurnished,10,0,1,1
+Junagadh,,4051451,1011,2,,,1,0,1
+Junagadh,Kalva Chowk,2775791,696,1,Unfurnished,,0,0,0
+Junagadh,Joshipura,3873336,978,2,Unfurnished,,0,1,1
+Junagadh,Joshipura,3342458,846,2,,,1,0,0
+Junagadh,,2612103,640,1,,10,1,0,0
+Junagadh,Joshipura,1893005,477,1,,,0,0,0
+Junagadh,Joshipura,2577293,631,1,Unfurnished,,1,1,0
+Junagadh,Joshipura,4786083,1181,3,Unfurnished,10,1,0,0
+Junagadh,Joshipura,4600604,,2,,,0,1,1
+Junagadh,Madhuram,4280547,1075,2,Unfurnished,,0,0,1
+Junagadh,,1953459,499,1,,,1,1,1
+Junagadh,,6808047,1659,3,Fully Furnished,10,1,0,0
+Junagadh,Kalva Chowk,2413871,597,1,,,1,0,0
+Junagadh,,7904677,1936,3,Semi-Furnished,2,1,0,0
+Junagadh,Madhuram,5019083,1266,3,,,0,1,0
+Junagadh,,2312013,574,1,Semi-Furnished,,0,0,0
+Junagadh,Madhuram,4939002,1214,3,Fully Furnished,5,0,0,0

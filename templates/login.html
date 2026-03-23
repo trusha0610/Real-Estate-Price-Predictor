@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Real Estate - Login</title>
+    <meta name="description" content="AI-powered property price prediction for Gujarat real estate">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏠</text></svg>">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body class="auth-body">
+
+    <!-- Floating particles background -->
+    <div class="particles">
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+    </div>
+
+    <div class="auth-wrapper">
+        <div class="auth-card">
+            <!-- Logo & Title -->
+            <div class="auth-logo">🏠</div>
+            <h1 class="auth-title">AI Real Estate</h1>
+            <p class="auth-subtitle">Intelligent Property Price Prediction</p>
+
+            <!-- Tab Toggle -->
+            <div class="auth-tabs" id="authTabs">
+                <button class="auth-tab {{ 'active' if mode == 'login' else '' }}" data-tab="login" onclick="switchTab('login')">Login</button>
+                <button class="auth-tab {{ 'active' if mode == 'register' else '' }}" data-tab="register" onclick="switchTab('register')">Register</button>
+            </div>
+
+            <!-- Messages -->
+            {% if error %}
+            <div class="alert alert-error">
+                <span>❌</span> {{ error }}
+            </div>
+            {% endif %}
+            {% if success %}
+            <div class="alert alert-success">
+                <span>✅</span> {{ success }}
+            </div>
+            {% endif %}
+
+            <!-- Login Form -->
+            <form id="loginForm" class="auth-form {{ '' if mode == 'login' else 'hidden' }}" action="/login" method="POST">
+                <div class="form-group">
+                    <label for="loginEmail">Email</label>
+                    <input type="email" id="loginEmail" name="email" placeholder="you@example.com" required>
+                </div>
+                <div class="form-group">
+                    <label for="loginPassword">Password</label>
+                    <input type="password" id="loginPassword" name="password" placeholder="Enter your password" required>
+                </div>
+                <button type="submit" class="btn-primary btn-full">
+                    <span>🔐</span> Login
+                </button>
+            </form>
+
+            <!-- Register Form -->
+            <form id="registerForm" class="auth-form {{ '' if mode == 'register' else 'hidden' }}" action="/register" method="POST">
+                <div class="form-group">
+                    <label for="regName">Full Name</label>
+                    <input type="text" id="regName" name="name" placeholder="Enter your full name" required>
+                </div>
+                <div class="form-group">
+                    <label for="regMobile">Mobile Number</label>
+                    <input type="tel" id="regMobile" name="mobile" placeholder="Enter your mobile number" required>
+                </div>
+                <div class="form-group">
+                    <label for="regEmail">Email</label>
+                    <input type="email" id="regEmail" name="email" placeholder="you@example.com" required>
+                </div>
+                <div class="form-group">
+                    <label for="regPassword">Password</label>
+                    <input type="password" id="regPassword" name="password" placeholder="Create a password" required>
+                </div>
+                <button type="submit" class="btn-primary btn-full">
+                    <span>📝</span> Register
+                </button>
+            </form>
+        </div>
+
+        <p class="auth-footer">Built with ❤️ by <strong>Data Vidwan</strong></p>
+    </div>
+
+    <script>
+        function switchTab(tab) {
+            document.getElementById('loginForm').classList.toggle('hidden', tab !== 'login');
+            document.getElementById('registerForm').classList.toggle('hidden', tab !== 'register');
+            document.querySelectorAll('.auth-tab').forEach(t => {
+                t.classList.toggle('active', t.dataset.tab === tab);
+            });
+            // Clear alerts on tab switch
+            document.querySelectorAll('.alert').forEach(a => a.style.display = 'none');
+        }
+    </script>
+</body>
+</html>

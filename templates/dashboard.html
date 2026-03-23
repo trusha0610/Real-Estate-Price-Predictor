@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Real Estate - Dashboard</title>
+    <meta name="description" content="AI-powered property price prediction dashboard for Gujarat real estate">
+    <link rel="icon" href="data:image/svg+xml, <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏠</text></svg>">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body class="dashboard-body">
+    <div id="moodOverlay" class="mood-overlay"></div>
+
+    <!-- ========== SIDEBAR ========== -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-inner">
+            <!-- Logo -->
+            <div class="sidebar-logo">
+                <img src="/logo" alt="Data Vidwan" id="logoImg">
+            </div>
+
+            <!-- Removed Logout From Here -->
+
+            <!-- Section: Property Details -->
+            <h3 class="sidebar-heading">🏢 Property Details</h3>
+
+            <div class="form-group">
+                <label for="city">🌍 City <span class="info-icon" title="Select the city where the property is located.">ⓘ</span></label>
+                <select id="city" name="city">
+                    {% for c in cities %}
+                    <option value="{{ c }}">{{ c }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="location">📍 Location <span class="info-icon" title="Select the specific area within the city.">ⓘ</span></label>
+                <select id="location" name="location">
+                    <option value="">Select city first</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="area_sqft">📐 Area (sqft) <span class="info-icon" title="Built-up or Carpet area in square feet.">ⓘ</span></label>
+                <input type="number" id="area_sqft" name="area_sqft" value="1000" min="200" max="{{ max_area }}">
+            </div>
+
+            <div class="form-group">
+                <label for="bhk">🛏️ BHK <span class="info-icon" title="Number of Bedrooms, Hall, and Kitchen.">ⓘ</span></label>
+                <select id="bhk" name="bhk">
+                    <option value="1">1 BHK</option>
+                    <option value="2">2 BHK</option>
+                    <option value="3" selected>3 BHK</option>
+                    <option value="4">4 BHK</option>
+                    <option value="5">5 BHK</option>
+                </select>
+            </div>
+
+            <!-- Validation Message -->
+            <div id="validationMsg" class="validation-msg"></div>
+
+            <div class="sidebar-divider"></div>
+
+            <div class="form-group">
+                <label for="property_age">⏳ Property Age: <span id="ageValue">5</span> yrs <span class="info-icon" title="Age of the property. Older properties normally have lower estimates.">ⓘ</span></label>
+                <input type="range" id="property_age" name="property_age" min="1" max="50" value="5">
+            </div>
+
+            <div class="toggle-group">
+                <label class="toggle-label">
+                    <input type="checkbox" id="parking" name="parking">
+                    <span class="toggle-switch"></span>
+                    <span>Parking</span>
+                </label>
+                <label class="toggle-label">
+                    <input type="checkbox" id="lift" name="lift">
+                    <span class="toggle-switch"></span>
+                    <span>Lift</span>
+                </label>
+                <label class="toggle-label">
+                    <input type="checkbox" id="balcony" name="balcony">
+                    <span class="toggle-switch"></span>
+                    <span>Balcony</span>
+                </label>
+            </div>
+
+            <div class="sidebar-divider"></div>
+
+            <div class="form-group">
+                <label for="budget">Your Budget (₹)</label>
+                <input type="text" id="budget" name="budget" value="50,00,000" placeholder="e.g. 50,00,000">
+                <span class="budget-display" id="budgetDisplay"></span>
+            </div>
+
+            <!-- Predict Button -->
+            <button id="predictBtn" class="btn-primary btn-full btn-predict" onclick="predictPrice()">
+                <span>🔮</span> Predict Price
+            </button>
+
+            <div class="sidebar-divider"></div>
+            <div class="toggle-group">
+                <label class="toggle-label">
+                    <input type="checkbox" id="darkModeToggle" onchange="toggleDarkMode()">
+                    <span class="toggle-switch"></span>
+                    <span>🌙 Neo-Dark Mode</span>
+                </label>
+            </div>
+
+            <!-- Logout Moved To Bottom -->
+            <div class="sidebar-divider" style="margin-top: auto;"></div>
+            <a href="/logout" class="btn-logout" id="logoutBtn">
+                <span>🚪</span> Logout
+            </a>
+        </div>
+    </aside>
+
+    <!-- ========== MOBILE SIDEBAR TOGGLE ========== -->
+    <button class="sidebar-toggle" id="sidebarToggle" onclick="toggleSidebar()">☰</button>
+
+    <!-- ========== TOAST NOTIFICATIONS ========== -->
+    <div id="toastContainer" class="toast-container"></div>
+
+    <!-- ========== MAIN CONTENT ========== -->
+    <main class="main-content">
+        <!-- Header -->
+        <header class="main-header">
+            <h1 class="hero-title">AI Real Estate Intelligence System</h1>
+            <p class="hero-sub">
+                Welcome, <strong>{{ user_name }}</strong> 👋 &nbsp;·&nbsp; Powered by CatBoost ML
+            </p>
+        </header>
+
+        <!-- Prediction Result Card -->
+        <section class="glass-card" id="resultSection">
+            <h2 class="section-title">📊 Prediction Result</h2>
+
+            <!-- Empty State -->
+            <div id="emptyState" class="empty-state">
+                <div class="empty-icon">🏡</div>
+                <p>Configure property details in the sidebar and click <strong>Predict Price</strong> to get started</p>
+            </div>
+
+            <!-- Loading State -->
+            <div id="loadingState" class="loading-state hidden">
+                <div class="spinner"></div>
+                <p>Analyzing property data...</p>
+            </div>
+
+            <!-- Results -->
+            <div id="resultsContainer" class="hidden">
+                <!-- 3 Metric Cards -->
+                <div class="metrics-grid">
+                    <div class="metric-box" id="metricPrice">
+                        <div class="metric-icon">💰</div>
+                        <div class="metric-value" id="predictedPrice">—</div>
+                        <div class="metric-label">Predicted Price</div>
+                    </div>
+                    <div class="metric-box" id="metricRange">
+                        <div class="metric-icon">📏</div>
+                        <div class="metric-value" id="priceRange">—</div>
+                        <div class="metric-label">Estimated Range</div>
+                    </div>
+                    <div class="metric-box" id="metricSqft">
+                        <div class="metric-icon">📐</div>
+                        <div class="metric-value" id="priceSqft">—</div>
+                        <div class="metric-label">Price / Sqft</div>
+                    </div>
+                </div>
+
+                <!-- Budget Verdict -->
+                <div id="verdictCard" class="verdict-card hidden"></div>
+
+                <!-- Insights & Visualizations -->
+                <div class="insights-grid">
+                    <!-- Confidence Ring -->
+                    <div class="confidence-section">
+                        <div class="ring-container">
+                            <svg viewBox="0 0 36 36" class="circular-chart">
+                                <path class="circle-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                                <path class="circle" id="confidenceRing" stroke-dasharray="0, 100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                                <text x="18" y="20.35" class="percentage" id="confidenceValueText">—</text>
+                            </svg>
+                        </div>
+                        <div class="confidence-label">AI Confidence</div>
+                    </div>
+                    
+                    <!-- Budget Comparison -->
+                    <div class="budget-comparison hidden" id="budgetComparison">
+                        <div class="bc-title">Budget Analysis</div>
+                        <div class="bc-labels">
+                            <span class="lbl-budget"><div class="dot budget-dot"></div> Budget: <strong id="bcBudgetVal">—</strong></span>
+                            <span class="lbl-pred"><div class="dot pred-dot"></div> Estimate: <strong id="bcPredVal">—</strong></span>
+                        </div>
+                        <div class="bc-track">
+                            <div class="bc-bar-budget" id="bcBarBudget" style="width: 0%"></div>
+                        </div>
+                        <div class="bc-track mt-2">
+                            <div class="bc-bar-pred" id="bcBarPred" style="width: 0%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Action Buttons -->
+                <div class="result-actions">
+                    <button class="btn-secondary" onclick="window.print()">🖨️ Print Estimate</button>
+                    <button class="btn-secondary" onclick="copyEstimateToClipboard()">🔗 Copy Result</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- History Section -->
+        <section class="glass-card hidden" id="historySection" style="margin-top: 32px; flex: 0 0 auto;">
+            <div class="section-header-flex">
+                <h2 class="section-title" style="margin-bottom: 0;">🕒 Recent Estimates</h2>
+                <button class="btn-icon" onclick="clearHistory()" title="Clear History">🧹</button>
+            </div>
+            <div id="historyList" class="history-grid">
+                <!-- Injected via JS -->
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="app-footer">
+            Made by <strong>Trusha Barad</strong> &nbsp;·&nbsp; AI-Powered Real Estate Intelligence
+        </footer>
+    </main>
+
+    <!-- Pass BHK ranges from Flask to JS -->
+    <script>
+        const BHK_RANGES = {{ bhk_ranges | tojson }};
+    </script>
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
